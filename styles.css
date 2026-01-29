@@ -114,7 +114,7 @@ a{color:inherit;text-decoration:none;}
   top:50%;
   left:50%;
   transform:translate(-50%,-50%);
-  font-size:18px;
+  font-size:14px;
   letter-spacing:.12em;
   text-transform:uppercase;
   color:white;
@@ -231,7 +231,7 @@ a{color:inherit;text-decoration:none;}
     gap:24px;
   }
   .bottom__right{justify-self:start; max-width:720px;}
-  .lead__title{font-size:22px;}
+  .lead__title{font-size:16px;}
 }
 
 @media (max-width:560px){
@@ -255,7 +255,7 @@ a{color:inherit;text-decoration:none;}
 
   .lead{grid-template-columns:1fr;}
   .lead__arrow{display:none;}
-  .lead__title{font-size:20px; line-height:1.15;}
+  .lead__title{font-size:14px; line-height:1.15;}
   .row{padding:16px 12px; font-size:14px;}
 }
 
